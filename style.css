@@ -1,0 +1,59 @@
+body {
+    background-image: url("main.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+}
+
+.heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+
+#insta {
+    background-color: transparent;
+    margin-top: 10px;
+    margin-right: 100px;
+}
+
+#instabut{
+    background-image: url(insta.png);
+    background-color: white;
+    background-size: cover;
+    color: black;
+    width: 50px;
+    height: 40px;
+}
+
+.aboutme {
+    background-color: white;
+    width: 1500px;
+    height: 800px;
+    margin-top: 40%;
+    padding: 10px;
+}
+
+#photo{
+    background-image: url("aboutme.png");
+    background-size: cover;
+    width: 700px;
+    height: 700px;
+    margin-left: 55%;
+}
+
+#content {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: black;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
